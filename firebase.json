@@ -1,0 +1,13 @@
+{
+    "hosting": {
+      "public": "public",
+      "ignore": [],
+      "rewrites": [
+        {
+          "source": "**",
+          "function": "app"
+        }
+      ]
+    }
+  }
+  
